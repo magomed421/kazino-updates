@@ -1,6 +1,7 @@
 {
-  "version": "5.1.30",
-  "url": "https://github.com/magomed421/KazinoLauncher/releases/download/v5.1.30/KazinoLauncher-Setup-5.1.30.exe",
-  "changelog": "Первая версия с системой удалённого обновления",
-  "mandatory": false
+    "download_url":  "https://github.com/magomed421/KazinoLauncher/releases/download/v5.1.32/KazinoLauncher-Setup-5.1.32.exe",
+    "file_hash":  "0517747cc18f5594828e3c599e2036de18f1a67e218c70603dfe81106a01c9f9",
+    "version":  "5.1.32",
+    "release_date":  "2026-09-16",
+    "file_size_mb":  72.1
 }
